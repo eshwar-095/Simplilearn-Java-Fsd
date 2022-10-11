@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-11T10:29:52 IST" name="Default suite" finished-at="2022-10-11T10:32:10 IST" duration-ms="137983">
+    <groups>
+    </groups>
+    <test started-at="2022-10-11T10:29:52 IST" name="Default test" finished-at="2022-10-11T10:32:10 IST" duration-ms="137983">
+      <class name="com.demo.NewTest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.demo.NewTest@d5b810e]" started-at="2022-10-11T10:29:52 IST" name="beforeMethod" finished-at="2022-10-11T10:30:22 IST" duration-ms="30289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="chromeTest()[pri:0, instance:com.demo.NewTest@d5b810e]" started-at="2022-10-11T10:30:22 IST" name="chromeTest" finished-at="2022-10-11T10:30:44 IST" duration-ms="21680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chromeTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.demo.NewTest@d5b810e]" started-at="2022-10-11T10:30:44 IST" name="afterMethod" finished-at="2022-10-11T10:30:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.demo.NewTest@d5b810e]" started-at="2022-10-11T10:30:44 IST" name="beforeMethod" finished-at="2022-10-11T10:31:20 IST" duration-ms="35869" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="operaTest()[pri:0, instance:com.demo.NewTest@d5b810e]" started-at="2022-10-11T10:31:20 IST" name="operaTest" finished-at="2022-10-11T10:32:10 IST" duration-ms="50102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- operaTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.demo.NewTest@d5b810e]" started-at="2022-10-11T10:32:10 IST" name="afterMethod" finished-at="2022-10-11T10:32:10 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.demo.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
